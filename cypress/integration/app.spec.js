@@ -5,6 +5,7 @@
 /// <reference types="../support" />
 
 // check this file using TypeScript if available
+
 // @ts-check
 
 // ***********************************************
